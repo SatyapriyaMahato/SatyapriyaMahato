@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm spm
 
-- 🔭 I’m currently working on *my front-end skills*
+- 🔭 I’m currently working on *my front-end skills at [Frontend Mentor](https://www.frontendmentor.io/profile/SatyapriyaMahato)*
 - 🌱 I’m currently learning *Javascript*
 - 👯 I’m looking to collaborate on *front-end projects*
 - 💬 Ask me about *ancient history, space, music*
