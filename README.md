@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm spm
 
-<!--
-**SatyapriyaMahato/SatyapriyaMahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on *my front-end skills*
+- 🌱 I’m currently learning *Javascript*
+- 👯 I’m looking to collaborate on *front-end projects*
+- 💬 Ask me about *ancient history, space, music*
+- 📫 How to reach me: *Mail me maybe - [satyapriyamahto@gmail.com](mailto:satyapriyamahto@gmail.com)*
+- 😄 Pronouns: *He/Him*
+- ⚡ Fun fact: *I do sketching sometimes*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=404254)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=404254)
