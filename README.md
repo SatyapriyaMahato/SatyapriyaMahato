@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning *Javascript*
 - 👯 I’m looking to collaborate on *front-end projects*
 - 💬 Ask me about *ancient history, space, music*
-- 📫 How to reach me: *Mail me maybe - [satyapriyamahto@gmail.com](mailto:satyapriyamahto@gmail.com)*
+- 📫 How to reach me: *Mail me at - [satyapriyamahto@gmail.com](mailto:satyapriyamahto@gmail.com)*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I do sketching sometimes*
 
