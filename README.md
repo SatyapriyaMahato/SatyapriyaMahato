@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on *my front-end skills at [Frontend Mentor](https://www.frontendmentor.io/profile/SatyapriyaMahato)*
 - 🌱 I’m currently learning *Javascript*
 - 👯 I’m looking to collaborate on *front-end projects*
-- 💬 Ask me about *ancient history, space, music*
+- 💬 Ask me about *cricket, history, music*
 - 📫 How to reach me: *Mail me at - [satyapriyamahto@gmail.com](mailto:satyapriyamahto@gmail.com)*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I do sketching sometimes*
