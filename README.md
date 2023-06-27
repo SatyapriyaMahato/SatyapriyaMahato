@@ -9,10 +9,10 @@
   <a href="mailto:satyapriyamahto@gmail.com">
     <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=gmail&style=flat&logoColor=ffffff&link=mailto:satyapriyamahto@gmail.com" alt="Satyapriya Mahato" />
   </a> 
-  <a href="https://linkedin.com/in/sayapriyamahato" target="_blank">
+  <a href="https://linkedin.com/in/satyapriyamahato" target="_blank">
     <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=linkedin&link=https://linkedin.com/in/satyapriyamahato" alt="Satyapriya mahato" />
   </a> 
-  <a href="https://stackoverflow.com/users/2774496/service-paradis" target="_blank">
+  <a href="https://stackoverflow.com/users/2774496/satyapriya-mahato" target="_blank">
     <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/2774496/satyapriya-mahato"  alt="Satyapriya Mahato" />
   </a>
 </p>
