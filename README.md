@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=linkedin&link=https://linkedin.com/in/satyapriyamahato" alt="Satyapriya mahato" />
   </a> 
   <a href="https://stackoverflow.com/users/2774496/satyapriya-mahato" target="_blank">
-    <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/2774496/satyapriya-mahato"  alt="Satyapriya Mahato" />
+    <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/21614752/satyapriya-mahato"  alt="Satyapriya Mahato" />
   </a>
 </p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=satyapriyamahato&hide_border=true&show_icons=true&theme=transparent&card_width=400&rank_icon=github)
-![H](https://streak-stats.demolab.com/?user=satyapriyamahato&hide_border=true&theme=transparent&card_width=400&stroke=transparent)
+![](https://streak-stats.demolab.com/?user=satyapriyamahato&hide_border=true&theme=transparent&card_width=400&stroke=transparent)
 
 Languages | Design | DevOps | Utilities 
 --------- | ------ | ------ | --------- 
