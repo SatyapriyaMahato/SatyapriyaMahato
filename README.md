@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:satyapriyamahto@gmail.com">
-    <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-006AFF?logo=gmail&style=flat&logoColor=ffffff&link=mailto:satyapriyamahto@gmail.com" alt="Satyapriya Mahato" />
+    <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=gmail&style=flat&logoColor=ffffff&link=mailto:satyapriyamahto@gmail.com" alt="Satyapriya Mahato" />
   </a> 
   <a href="https://linkedin.com/in/sayapriyamahato" target="_blank">
     <img src="https://img.shields.io/badge/-Satyapriya%20Mahato-black?logo=linkedin&link=https://linkedin.com/in/satyapriyamahato" alt="Satyapriya mahato" />
