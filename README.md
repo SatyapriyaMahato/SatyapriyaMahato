@@ -19,7 +19,7 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=satyapriyamahato&hide_border=true&show_icons=true&theme=transparent&rank_icon=github)
-![H](https://streak-stats.demolab.com/?user=satyapriyamahato&hide_border=true&theme=transparent&card_width=420&stroke=transparent)
+![H](https://streak-stats.demolab.com/?user=satyapriyamahato&hide_border=true&theme=transparent&card_width=400&stroke=transparent)
 
 Languages | Design | DevOps | Utilities 
 --------- | ------ | ------ | --------- 
