@@ -2,7 +2,7 @@
   Hi👋, I'm satyapriya
 </h1>
 <h3 align="center">
-  A frontend developer
+  Software Developer
 </h3>
 
 <p align="center">
